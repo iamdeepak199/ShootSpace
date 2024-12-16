@@ -1,0 +1,10 @@
+<svg id="fb" xmlns="http://www.w3.org/2000/svg" width="45.205" height="45.205" viewBox="0 0 45.205 45.205">
+  <path id="Path_129682" data-name="Path 129682" d="M22.6,0A22.6,22.6,0,1,1,0,22.6,22.6,22.6,0,0,1,22.6,0Z" fill="#d83434"/>
+  <g id="facebook" transform="translate(6.27 6.094)">
+    <g id="Group_91071" data-name="Group 91071" transform="translate(32.272 32.272) rotate(180)" opacity="0">
+      <path id="Path_129679" data-name="Path 129679" d="M0,0H32.272V32.272H0Z" fill="#fff"/>
+    </g>
+    <path id="Path_129680" data-name="Path 129680" d="M26.791,6.668A.674.674,0,0,0,26.119,6H22.757a6.415,6.415,0,0,0-6.723,6.051v3.631H12.672A.674.674,0,0,0,12,16.35v3.5a.674.674,0,0,0,.672.672h3.362v9.009a.674.674,0,0,0,.672.672H20.74a.674.674,0,0,0,.672-.672V20.518h3.523a.67.67,0,0,0,.659-.5l.968-3.5a.67.67,0,0,0-.645-.847h-4.5V12.047a1.339,1.339,0,0,1,1.345-1.21h3.362a.674.674,0,0,0,.672-.672Z" transform="translate(-3.932 -1.962)" fill="#fff"/>
+    <path id="Path_129681" data-name="Path 129681" d="M0,0H32.272V32.272H0Z" fill="none"/>
+  </g>
+</svg>

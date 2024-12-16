@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="30" height="30" viewBox="0 0 30 30">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="Rectangle_28171" data-name="Rectangle 28171" width="30" height="30" transform="translate(-10034 -194)" fill="#fff" stroke="#707070" stroke-width="1"/>
+    </clipPath>
+  </defs>
+  <g id="Mask_Group_964" data-name="Mask Group 964" transform="translate(10034 194)" clip-path="url(#clip-path)">
+    <g id="Group_92205" data-name="Group 92205">
+      <g id="Group_77296" data-name="Group 77296" transform="translate(-10030 -189.981)">
+        <path id="Icon_material-phone-in-talk" data-name="Icon material-phone-in-talk" d="M15.383,11.311a10.28,10.28,0,0,1-3.231-.516.924.924,0,0,0-.923.217L9.239,13A13.615,13.615,0,0,1,3.276,7.04l1.991-2a.869.869,0,0,0,.226-.9A10.28,10.28,0,0,1,4.977.9a.908.908,0,0,0-.9-.9H.9A.908.908,0,0,0,0,.9,15.382,15.382,0,0,0,15.383,16.288a.908.908,0,0,0,.9-.9V12.216A.908.908,0,0,0,15.383,11.311Z" transform="translate(5.303 0) rotate(19)" fill="#d62828"/>
+      </g>
+      <path id="Icon_material-phone-in-talk-2" data-name="Icon material-phone-in-talk" d="M7.177,9.228H9.228A9.228,9.228,0,0,0,0,0V2.051A7.172,7.172,0,0,1,7.177,9.228Zm-4.1,0H5.126A5.128,5.128,0,0,0,0,4.1V6.152A3.072,3.072,0,0,1,3.076,9.228Z" transform="translate(-10015.795 -188.045) rotate(19)" fill="#d62828"/>
+    </g>
+  </g>
+</svg>
