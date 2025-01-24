@@ -3837,7 +3837,7 @@ label {
 
 .cs_main_header {
   position: relative;
-  background-color: #1A79B0;
+  background-color: #ffffff;          /* nav color*/
 }
 
 .cs_main_header .container-fluid {
@@ -3925,7 +3925,7 @@ label {
     -webkit-box-align: center;
     -ms-flex-align: center;
     align-items: center;
-    color: #ffffff;
+    color: #af0f0f;
   }
 
   .cs_nav .cs_nav_list>li>ul {
